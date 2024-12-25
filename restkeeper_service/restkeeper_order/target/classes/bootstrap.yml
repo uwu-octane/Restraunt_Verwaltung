@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: order-dubbo-provider
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+        shared-dataids: common.yml
+        refreshable-dataids: common.yml
+    alibaba:
+      seata:
+        tx-service-group: ${spring.application.name}-seata-tx-service-group
+server:
+  port: 9992

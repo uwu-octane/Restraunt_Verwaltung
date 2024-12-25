@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.restkeeper.shop.StoreTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.134 s - in com.restkeeper.shop.StoreTest

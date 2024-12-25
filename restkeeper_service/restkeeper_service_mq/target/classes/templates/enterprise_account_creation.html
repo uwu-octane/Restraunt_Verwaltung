@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Account Activation</title>
+</head>
+<body>
+<h1 th:text="'Welcome, ' + ${recipientEmail} + '!'">Welcome!</h1>
+<p>Your shop ID is: <strong th:text="${shopId}">[shopId]</strong></p>
+<p>Your temporary password is: <strong th:text="${password}">[password]</strong></p>
+</body>
+</html>

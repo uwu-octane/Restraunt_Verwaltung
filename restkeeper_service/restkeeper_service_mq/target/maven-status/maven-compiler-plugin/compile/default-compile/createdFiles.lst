@@ -1,0 +1,3 @@
+com/restkeeper/email/listener/EmailMessageListener.class
+com/restkeeper/email/RabbitmqSpringbootApplication.class
+com/restkeeper/email/listener/EmailMessageListener$1.class

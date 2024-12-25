@@ -1,0 +1,8 @@
+com/restkeeper/shop/service/IStoreService.class
+com/restkeeper/shop/entity/Store.class
+com/restkeeper/shop/entity/StoreManager.class
+com/restkeeper/shop/service/IBrandService.class
+com/restkeeper/shop/entity/Brand.class
+com/restkeeper/shop/service/IAzureBlobService.class
+com/restkeeper/shop/service/IStoreManagerService.class
+com/restkeeper/shop/entity/BaseShopEntity.class

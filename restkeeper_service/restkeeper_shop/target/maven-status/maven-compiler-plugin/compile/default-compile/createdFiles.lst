@@ -1,0 +1,12 @@
+com/restkeeper/shop/mapper/StoreManagerMapper.class
+com/restkeeper/shop/service/StoreManagerServiceImpl.class
+com/restkeeper/shop/service/BrandServiceImpl.class
+com/restkeeper/shop/config/MybatisPlusTenantConfig.class
+com/restkeeper/shop/config/AzureStorageConfig.class
+com/restkeeper/shop/ShopProviderApplication.class
+com/restkeeper/shop/service/StoreServiceImpl.class
+com/restkeeper/shop/config/MybatisPlusTenantConfig$1.class
+com/restkeeper/shop/config/RabbitMQConfig.class
+com/restkeeper/shop/mapper/StoreMapper.class
+com/restkeeper/shop/mapper/BrandMapper.class
+com/restkeeper/shop/service/AzureBlobServiceImpl.class
